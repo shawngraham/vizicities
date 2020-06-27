@@ -1,5 +1,5 @@
-// Manhattan
-var coords = [40.739940, -73.988801];
+// Ottawa
+var coords = [45.424721, -75.695000];
 
 var world = VIZI.world('world', {
   skybox: false,
